@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DELIVERY one-word domains still available to buy.
 
-This dataset contains 4,528 .DELIVERY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,518 .DELIVERY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DELIVERY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=delivery-oneword-domains&utm_content=description.top) (4,532) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.DELIVERY one word dom
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/delivery-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.csv"><b>⬇️ CSV (4.53K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.json"><b>⬇️ JSON (4.53K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.csv"><b>⬇️ CSV (4.52K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.json"><b>⬇️ JSON (4.52K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=delivery-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.53K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.DELIVERY one word dom
 | abatic.delivery     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.delivery    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.delivery   | available | 50       | 1%     | 8      |           |         |         |
-| abc.delivery        | available | 102      | 41%    | 3      |           |         |         |
+| abc.delivery        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.delivery  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.delivery  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.delivery | available | 56       | 1%     | 10     |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.DELIVERY one word dom
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/delivery-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.csv"><b>⬇️ CSV (4.53K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.json"><b>⬇️ JSON (4.53K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.csv"><b>⬇️ CSV (4.52K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/delivery-oneword-domains/blob/main/delivery.json"><b>⬇️ JSON (4.52K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=delivery-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.53K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
