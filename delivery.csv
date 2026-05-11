@@ -939,6 +939,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52694cb2-5b1a-42c3-bebb-28904fb602f2,hasto.delivery,available,8.99,,56,3,6,name.com,,
 5273977c-89b2-4886-9fce-e29e93d8ee6d,commonrun.delivery,available,8.99,,68,1,10,name.com,,
 527e1dc3-e76a-4928-b5c7-c7daf78be562,speaks.delivery,available,8.99,,51,9,6,name.com,,
+52846103-1170-4019-a448-d389bf18a239,drivethru.delivery,premium,,,76,10,10,,,
 528f60fb-5254-41cb-ae25-3f589365a499,textures.delivery,available,8.99,,50,9,8,name.com,,
 52a16c5b-5eeb-4d34-a6f8-2d5dd325103b,getsomeair.delivery,available,8.99,,77,1,12,name.com,,
 52b6b09e-f8c4-4325-9077-b9affe3556d1,backstretch.delivery,available,8.99,,74,3,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56b10577-8307-423b-baf8-a1ecbfd22b2b,objectives.delivery,available,8.99,,54,5,10,name.com,,
 56e0a987-b9a9-4768-a427-65030fb66242,accountstated.delivery,available,8.99,,40,2,14,name.com,,
 56e1b0d8-dbdf-45d5-bced-e85881ad705f,affiliates.delivery,available,8.99,,60,21,10,name.com,,
-56f576d9-0c85-4258-9d41-6d21e4aff8c7,socioeconomic.delivery,available,8.99,,54,1,13,name.com,,
