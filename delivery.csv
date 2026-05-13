@@ -299,6 +299,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1a65253c-f92a-4b7e-a91d-de48df3c32ae,haveway.delivery,available,8.99,,74,1,8,name.com,,
 1a6bcefa-f7ed-41cc-a18c-cf5bb655f268,fasttracked.delivery,available,8.99,,56,1,12,name.com,,
 1a740253-2459-4498-bcb0-b302dde341a7,transmitted.delivery,available,8.99,,64,1,11,name.com,,
+1a783e5a-bc0d-4601-a90e-dd08eddb296e,NewOrleans.delivery,premium,,,72,16,11,,,
 1a7e3735-8b13-4f28-95f4-795376c39c4d,highpolitics.delivery,available,8.99,,62,0,13,name.com,,
 1a94ec40-166c-4e15-8d8c-9f6f42cbbf17,hammeraway.delivery,available,8.99,,66,0,11,name.com,,
 1a957b27-c6ed-4cd9-9202-ba130ecd3187,payoff.delivery,available,8.99,,70,8,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 569893b9-77c4-4bec-aa3c-9fb134fe9bae,appraisals.delivery,available,8.99,,56,10,10,name.com,,
 56b10577-8307-423b-baf8-a1ecbfd22b2b,objectives.delivery,available,8.99,,54,5,10,name.com,,
 56e0a987-b9a9-4768-a427-65030fb66242,accountstated.delivery,available,8.99,,40,2,14,name.com,,
-56e1b0d8-dbdf-45d5-bced-e85881ad705f,affiliates.delivery,available,8.99,,60,21,10,name.com,,
