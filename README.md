@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .delivery one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,920 domains · **Median ask:** $16.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/delivery`  
 **Best for:** founders, investors, studios
 
@@ -80,8 +80,8 @@ print(df.head())
 | NewOrleans.delivery   | premium   | —         | —             | 72             | 16     | 11     | —                                           |
 | inspiration.delivery  | available | $8.99     | —             | 88             | 30     | 11     | name.com                                    |
 | drivethru.delivery    | premium   | —         | —             | 76             | 10     | 10     | —                                           |
-| popup.delivery        | available | $8.99     | —             | 84             | 29     | 6      | name.com                                    |
 | cams.delivery         | available | $8.99     | —             | 52             | 29     | 4      | name.com                                    |
+| popup.delivery        | available | $8.99     | —             | 84             | 28     | 6      | name.com                                    |
 | commonground.delivery | available | $8.99     | —             | 74             | 28     | 13     | name.com                                    |
 | backyard.delivery     | available | $8.99     | —             | 80             | 27     | 9      | name.com                                    |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
