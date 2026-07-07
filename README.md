@@ -1,10 +1,10 @@
-# Available .DELIVERY One-Word Domains (11,921)
+# Available .DELIVERY One-Word Domains (11,922)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C921%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C922%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .delivery one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,921 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,922 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,921 domains · **Median ask:** $16.22 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,922 domains · **Median ask:** $13.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/delivery`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/delivery`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DELIVERY one-word dom
 
 ### Files
 
-- `delivery.csv` — public CSV extract (1,000 rows)
-- `delivery.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `delivery.csv`, public CSV extract (1,000 rows)
+- `delivery.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| Ryan.delivery         | available | $79.98    | —             | 60             | 44     | 4      | namecheap                                   |
-| text.delivery         | resell    | —         | —             | 70             | 43     | 4      | Spaceship, Inc.                             |
-| Tools.delivery        | premium   | $280      | $280          | 56             | 40     | 5      | namecheap                                   |
-| justin.delivery       | available | $8.99     | —             | 58             | 38     | 7      | name.com                                    |
-| weave.delivery        | resell    | —         | —             | 76             | 30     | 5      | GoDaddy.com, LLC                            |
-| girls.delivery        | premium   | $250      | —             | 83             | 23     | 5      | name.com                                    |
-| spectra.delivery      | available | $8.99     | —             | 62             | 34     | 7      | name.com                                    |
-| videos.delivery       | resell    | —         | —             | 52             | 30     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
-| holidays.delivery     | premium   | $242      | $242          | 78             | 23     | 8      | namesilo                                    |
-| trends.delivery       | available | $8.99     | —             | 60             | 32     | 6      | name.com                                    |
-| meals.delivery        | resell    | —         | —             | 68             | 15     | 5      | 1API GmbH                                   |
-| bills.delivery        | premium   | $250      | —             | 54             | 19     | 5      | name.com                                    |
-| William.delivery      | available | $79.98    | —             | 74             | 31     | 7      | namecheap                                   |
-| NewOrleans.delivery   | premium   | —         | —             | 72             | 16     | 11     | —                                           |
-| cams.delivery         | available | $8.99     | —             | 52             | 29     | 4      | name.com                                    |
-| drivethru.delivery    | premium   | —         | —             | 76             | 10     | 10     | —                                           |
-| popup.delivery        | available | $8.99     | —             | 84             | 28     | 6      | name.com                                    |
-| commonground.delivery | available | $8.99     | —             | 74             | 28     | 13     | name.com                                    |
-| inspiration.delivery  | available | $8.99     | —             | 88             | 27     | 11     | name.com                                    |
-| backyard.delivery     | available | $8.99     | —             | 80             | 27     | 9      | name.com                                    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| Ann.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| data.delivery  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| auto.delivery  | premium   | $520      | $520          | medium         | medium | 4      | namecheap         |
+| bae.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| mail.delivery  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
+| date.delivery  | premium   | $250      | —             | high           | low    | 4      | name.com          |
+| bag.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| plus.delivery  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11 |
+| adult.delivery | premium   | $250      | $250          | high           | low    | 5      | name.com          |
+| bug.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| quiz.delivery  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| chair.delivery | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
+| bye.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| sign.delivery  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| phone.delivery | premium   | $242      | $242          | high           | low    | 5      | namesilo          |
+| cot.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| true.delivery  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| seeds.delivery | premium   | $250      | —             | low            | low    | 5      | name.com          |
+| end.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| work.delivery  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,921 live domains                        |
+| 1,000-row public sample | 11,922 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely .delivery domains, which makes it useful for buyers comparing extension fit before anything else. The set includes concise keywords such as era.delivery, cut.delivery, stand.delivery, and dress.delivery, alongside longer or more specific names like hellothere.delivery and liveblog.delivery. For founders, the key question is whether the word stays clear, memorable, and commercially credible with .delivery. For investors, the decision is usually about entry price, renewal discipline, and whether the term has enough direct relevance to support resale interest. Sample names also show uneven trademark and brand risk, so generic words and clean commercial language deserve closer attention than loaded or protected terms.
+This set of .delivery domain names spans 11,922 options, with a median asking price of $13.55 — an accessible entry point across the TLD. Sample names like makesense.delivery, dogwalking.delivery, and edamame.delivery show the pattern: compact, descriptive, two-word combinations that read naturally for delivery, courier, and food-service brands. For founders, these names offer a fast way to lock in an ownable, on-theme domain without high upfront cost. For investors, the low median ask across a large pool of live inventory means broad TLD coverage and room to compare pricing before committing to any single name.
 
-- All names in this selection use the .delivery extension
-- Median ask across the set is 16.22
-- Short generics read cleaner than long or niche phrases
-- Check trademark risk before valuing branded terms highly
+- 11,922 .delivery domains in this selection
+- Median asking price: $13.55 — low entry cost
+- Brandable two-word names for delivery & logistics
+- Ownable now, ideal for fast-moving founders
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
