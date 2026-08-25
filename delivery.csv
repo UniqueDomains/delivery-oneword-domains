@@ -177,7 +177,7 @@ ca264224-66d5-43c8-afa6-8a672d8b0e8e,nutrient.delivery,available,8.99,77.99,high
 3093af41-fa79-49a3-9d76-ebf04467b8e6,askant.delivery,available,2.98,79.98,low,low,6,namecheap,,
 703d59a2-9c32-46b1-a71a-0e90defa60c4,checkover.delivery,available,8.99,,high,low,10,name.com,,
 4be924ac-0889-4adb-9de7-9b2f2ff8f983,thong.delivery,available,8.99,,medium,low,5,name.com,,
-090b1970-2d71-4992-b19a-d9259555ab63,bag.delivery,available,8.99,,high,low,3,name.com,,
+090b1970-2d71-4992-b19a-d9259555ab63,bag.delivery,available,2.98,79.98,medium,low,3,namecheap,,
 9fb50d4e-67a8-427d-bcff-10fa98170f23,anabiotic.delivery,available,2.98,79.98,low,low,9,namecheap,,
 512da452-00ba-4e07-879a-283dce7dd992,belgian.delivery,premium,78.54,78.54,low,low,7,namesilo,,
 778a4bd7-bcf2-4fd6-a8ea-6410ddfef476,stately.delivery,available,2.98,79.98,low,low,7,namecheap,,
@@ -818,7 +818,7 @@ fec036f3-4ba6-4d64-ba85-f2972c487c19,alphabetic.delivery,available,8.99,77.99,me
 9bd97bc9-5a08-4797-a67d-5dca878b4eb3,hatred.delivery,available,8.99,,medium,low,6,name.com,,
 52936dd5-28d6-4ba2-9be6-ab9eb15b8d16,whacky.delivery,available,2.98,79.98,low,low,6,namecheap,,
 94f45c3c-f432-40ca-bbeb-7207b72f5bcc,asthmatic.delivery,available,8.99,,medium,low,9,name.com,,
-b1cd490a-6933-4e4f-bf18-6e9ff26d3148,drink.delivery,resell,,,high,low,5,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00
+b1cd490a-6933-4e4f-bf18-6e9ff26d3148,drink.delivery,resell,,,medium,low,5,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00
 3f9c14e2-d594-4d80-a382-1fe861e3bc53,whose.delivery,available,8.99,,high,low,5,name.com,,
 7b6c777b-accd-4ce0-b4a1-58aa5528c5a4,shh.delivery,available,8.99,,medium,low,3,name.com,,
 c0afb03f-1523-4d94-8b31-5290e30d5aa1,comeupwith.delivery,available,8.99,,high,low,12,name.com,,
@@ -983,7 +983,7 @@ c7609cd1-e460-4218-92b5-cd95f483d09d,jerk.delivery,available,8.99,,high,low,4,na
 13ef07e3-94f6-450b-91f9-e164a2f5a8ca,balls.delivery,available,8.99,,high,low,5,name.com,,
 81e343b6-727e-4d79-a5f3-2e12ca827061,astute.delivery,available,8.99,,high,low,6,name.com,,
 4213447c-836f-4fb9-9490-d08aa5195342,diverted.delivery,available,2.98,79.98,low,low,8,namecheap,,
-254b6960-51ad-4ec8-95eb-9054ace4a875,policies.delivery,available,8.99,,low,low,8,name.com,,
+254b6960-51ad-4ec8-95eb-9054ace4a875,policies.delivery,available,2.98,79.98,low,low,8,namecheap,,
 a8676630-ff55-4c8f-bc00-2bb3e8d4adf2,bayer.delivery,available,,,high,low,5,,,
 ef961536-0932-4463-9218-cf2b50e7f43e,angle.delivery,available,8.99,,high,low,5,name.com,,
 1ff1a353-fb6b-451e-a822-2cc4e69d280a,mumbojumbo.delivery,available,8.99,,low,low,11,name.com,,
