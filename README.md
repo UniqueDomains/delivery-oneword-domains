@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .delivery one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,936 domains · **Median ask:** $8.24 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/delivery`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| sorry.delivery | available | $8.99     | $77.99        | high           | low    | 5      | name.com          |
+| away.delivery  | available | $8.99     | —             | high           | low    | 4      | name.com          |
 | Ann.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
 | mail.delivery  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
 | auto.delivery  | premium   | $520      | $520          | medium         | medium | 4      | namecheap         |
@@ -82,8 +84,6 @@ print(df.head())
 | bye.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
 | work.delivery  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 | seeds.delivery | premium   | $250      | —             | low            | low    | 5      | name.com          |
-| cot.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
-| beach.delivery | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
