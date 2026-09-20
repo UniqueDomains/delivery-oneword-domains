@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .delivery one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,637 domains · **Median ask:** $7.05 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/delivery`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| Ann.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
-| data.delivery  | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.   |
+| ann.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
+| air.delivery   | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
 | auto.delivery  | premium   | $520      | $520          | medium         | medium | 4      | namecheap         |
 | bae.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
-| mail.delivery  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
+| data.delivery  | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.   |
 | date.delivery  | premium   | $250      | —             | high           | low    | 4      | name.com          |
 | bag.delivery   | available | $2.98     | $79.98        | medium         | low    | 3      | namecheap         |
-| plus.delivery  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11 |
+| mail.delivery  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC  |
 | adult.delivery | premium   | $250      | $250          | high           | low    | 5      | name.com          |
 | bug.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
-| quiz.delivery  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| plus.delivery  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11 |
 | chair.delivery | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
 | bum.delivery   | available | $2.98     | $79.98        | low            | low    | 3      | namecheap         |
-| sign.delivery  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| quiz.delivery  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
 | phone.delivery | premium   | $242      | $242          | high           | low    | 5      | namesilo          |
 | bye.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
-| true.delivery  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| sign.delivery  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
 | seeds.delivery | premium   | $250      | —             | low            | low    | 5      | name.com          |
 | cot.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com          |
-| work.delivery  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| true.delivery  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DELIVERY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
