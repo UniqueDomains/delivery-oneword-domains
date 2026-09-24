@@ -6,7 +6,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 15cd8787-50f7-4088-8c11-47f4e724872b,setaceous.delivery,available,2.98,79.98,low,low,9,namecheap,,,08/08/2026 17:44
 e6093630-e74b-425f-bb65-e5d98e0238e0,personally.delivery,available,8.99,,medium,low,10,name.com,,,
 1b10c86f-0d98-4906-b749-d29d2d6394af,kooky.delivery,available,2.98,79.98,low,low,5,namecheap,,,06/08/2026 21:04
-ef67f0c1-b20b-434d-96f4-3b7bff610ce6,reinforced.delivery,available,8.99,,medium,low,10,name.com,,,
+ef67f0c1-b20b-434d-96f4-3b7bff610ce6,reinforced.delivery,available,6.75,61.99,medium,low,10,namesilo,,,23/09/2026 10:25
 007842c1-8487-408c-90ce-53008be959f4,skillful.delivery,available,8.99,77.99,medium,low,8,name.com,,,21/09/2026 17:27
 866b2a3f-88e0-41a6-b798-1a416f2d4ef5,diplomate.delivery,available,8.99,,high,low,9,name.com,,,
 0be6afc7-e600-4eea-a720-f860b5f9d310,bringto.delivery,available,8.99,,high,low,8,name.com,,,
@@ -44,8 +44,8 @@ c69b858c-4008-4850-853f-3a2eb2ff5a49,desolate.delivery,available,2.98,79.98,low,
 c135d117-fe45-42fc-ad21-7c04f70d5c7f,interact.delivery,available,8.99,,high,low,8,name.com,,,
 227dfa82-dc94-4052-9900-905e71d4150d,seeds.delivery,premium,250,,low,low,5,name.com,,,
 134bb74c-a887-4e99-a731-7ed54ec2c92a,nowhere.delivery,available,8.99,,high,low,7,name.com,,,
-563fc8bb-1041-4a81-a1b0-7186a59e6e51,odd.delivery,available,8.99,77.99,high,low,3,name.com,,,
-033f14f7-b4f8-4deb-a136-b9eac98c654e,still.delivery,available,8.99,,high,low,5,name.com,,,
+563fc8bb-1041-4a81-a1b0-7186a59e6e51,odd.delivery,available,6.75,61.99,low,low,3,namesilo,,,24/09/2026 03:59
+033f14f7-b4f8-4deb-a136-b9eac98c654e,still.delivery,available,6.75,61.99,medium,low,5,namesilo,,,23/09/2026 12:34
 637cae8f-1bf5-4c27-b6b0-7d37c9d7f608,muffincup.delivery,available,8.99,,high,low,10,name.com,,,
 ed26389b-e747-4f5d-bade-bbc2f6afbf72,palace.delivery,available,8.99,,medium,low,6,name.com,,,
 6402d98a-85b8-4b0c-991e-a9f293b05977,farmstand.delivery,available,8.99,,high,low,10,name.com,,,
@@ -70,7 +70,7 @@ c0093fa6-a2dd-40e0-991f-437120239ccc,argent.delivery,available,2.98,79.98,low,lo
 d23efc66-3034-4fdf-b7fa-b91cbcf6eae0,once.delivery,available,8.99,,high,low,4,name.com,,,
 c1345d75-b978-4fb6-b4b0-6b47b6e6fcc5,tone.delivery,available,8.99,,medium,low,4,name.com,,,
 8c7b5ee3-7d64-4e70-a920-9dffed5532f1,pleasant.delivery,available,8.99,,high,low,8,name.com,,,
-14cacf37-8ab4-45e6-9747-78d7c4b1fd4a,shot.delivery,available,8.99,,high,low,4,name.com,,,
+14cacf37-8ab4-45e6-9747-78d7c4b1fd4a,shot.delivery,available,2.98,79.98,low,low,4,namecheap,,,23/09/2026 13:53
 057723f1-4971-4541-8709-80d23c13bf1f,anguine.delivery,available,2.98,79.98,low,low,7,namecheap,,,
 be55bf8d-7f2a-422e-ae5a-72b794d286a2,attained.delivery,available,2.98,79.98,low,low,8,namecheap,,,07/08/2026 15:07
 deac4243-8b47-4bd9-ba98-f47d8f04cea5,hearts.delivery,available,8.99,,high,low,6,name.com,,,
@@ -79,7 +79,7 @@ dc95a7ae-027c-482c-acbe-94645868bd73,sunhat.delivery,available,8.99,,high,low,6,
 0bdf8c9d-ec4c-4406-aee5-2b779eec655b,worldfair.delivery,available,8.99,,low,low,10,name.com,,,
 cc7cc017-da1c-4228-b260-79637441e50a,apology.delivery,available,8.99,,high,low,7,name.com,,,
 3ea3f7e0-ae2c-4bb3-bfac-8d93423d9c0d,affixial.delivery,available,2.98,79.98,low,low,8,namecheap,,,
-ff5e1961-cb8c-4885-b6db-e18bbd20a54c,right.delivery,resell,,,high,low,5,"GoDaddy.com, LLC",17/02/2026 17:04,17/02/2027 17:04,
+ff5e1961-cb8c-4885-b6db-e18bbd20a54c,right.delivery,resell,,,medium,low,5,"GoDaddy.com, LLC",17/02/2026 17:04,17/02/2027 17:04,23/09/2026 23:38
 a3637aab-efb2-4b32-a4e9-48a4d954f8e5,partyhat.delivery,available,8.99,,high,low,9,name.com,,,
 a1370724-aa6e-498b-9038-debae8c08cae,airless.delivery,available,2.98,79.98,low,low,7,namecheap,,,
 b4080915-54ee-4e92-a04e-9acb4e0c5551,colonelsanders.delivery,available,8.99,,high,low,15,name.com,,,
@@ -141,11 +141,11 @@ b28ab2ac-f00e-46f7-a793-53070f348c8f,thiscoming.delivery,available,8.99,,low,low
 c96396cc-ecfa-4326-af7a-c1dfb8b4c3cf,incidental.delivery,available,2.98,79.98,low,low,10,namecheap,,,
 b37e9d58-7788-43d9-afd7-0742931a2af4,guarantee.delivery,available,8.99,,high,low,9,name.com,,,
 57e39419-8f04-4a7b-855e-c37a7b21b3a1,freshasadaisy.delivery,available,8.99,,medium,low,16,name.com,,,
-515130b0-b646-4fb1-bf6f-a465fd8635a8,pastrychef.delivery,available,2.98,79.98,medium,low,11,namecheap,,,19/09/2026 03:45
+515130b0-b646-4fb1-bf6f-a465fd8635a8,pastrychef.delivery,available,6.75,61.99,medium,low,11,namesilo,,,23/09/2026 09:00
 9948987c-eb81-459e-b62c-8c50f8262d25,had.delivery,available,8.99,,high,low,3,name.com,,,
 c230b422-c685-4a88-b93a-5f718a5dcd22,ttyl.delivery,available,8.99,,low,low,4,name.com,,,
 e1a0adc0-860d-412f-92d0-992e6bcddf18,keepcompany.delivery,available,8.99,,high,low,12,name.com,,,
-9b76cc9b-2d87-4305-be70-20e5a3f807ef,burning.delivery,available,8.99,,high,low,7,name.com,,,
+9b76cc9b-2d87-4305-be70-20e5a3f807ef,burning.delivery,available,2.98,79.98,low,low,7,namecheap,,,23/09/2026 11:45
 6b085edd-4c4c-4ae7-adbb-706cadea24b1,campaigner.delivery,available,8.99,,medium,low,10,name.com,,,
 e5d7fccb-a5db-4b5d-8828-2e22c2af099e,streetlight.delivery,available,8.99,,low,low,12,name.com,,,
 ed19b500-c334-4af1-805c-09bc0648ddf4,channels.delivery,available,8.99,,medium,low,8,name.com,,,
@@ -168,7 +168,7 @@ e4eb3e19-6e97-46d4-8fe0-1cd5113faaa9,igotmine.delivery,available,8.99,,medium,lo
 506d7ec3-b5e8-4960-8c56-46a728218b97,nonplussed.delivery,available,2.98,79.98,low,low,10,namecheap,,,07/08/2026 10:48
 093807c2-250d-438f-b460-84c5cb613544,primarytooth.delivery,available,8.99,,low,low,13,name.com,,,
 0f82f987-9195-42f5-9244-6caa4c70586c,lane.delivery,available,8.99,,medium,low,4,name.com,,,
-004c498f-e9d6-44ef-bd8f-9d1f663db540,jealous.delivery,available,8.99,77.99,high,low,7,name.com,,,
+004c498f-e9d6-44ef-bd8f-9d1f663db540,jealous.delivery,available,2.98,79.98,low,low,7,namecheap,,,24/09/2026 01:04
 ca264224-66d5-43c8-afa6-8a672d8b0e8e,nutrient.delivery,available,2.98,79.98,medium,low,8,namecheap,,,08/09/2026 11:42
 3093af41-fa79-49a3-9d76-ebf04467b8e6,askant.delivery,available,2.98,79.98,low,low,6,namecheap,,,07/08/2026 03:05
 703d59a2-9c32-46b1-a71a-0e90defa60c4,checkover.delivery,available,8.99,,high,low,10,name.com,,,
@@ -191,11 +191,11 @@ cc95c43f-c6fc-42a8-be76-e66696c33435,humanities.delivery,available,8.99,,high,lo
 3f44c765-709d-45b9-a5b3-b35ed94d6ecd,curative.delivery,available,6.75,61.99,medium,low,8,namesilo,,,22/09/2026 02:19
 2708f42c-14dd-4274-9622-ecf33b8057db,pronouncing.delivery,available,8.99,,medium,low,11,name.com,,,
 d90bc5bb-2cc9-437f-b716-ebfbd0f0ed1b,seeingthat.delivery,available,8.99,,medium,low,11,name.com,,,
-d5ca660e-d2a3-439b-a5e9-7f9994ce758a,attach.delivery,available,8.99,77.99,high,low,6,name.com,,,
+d5ca660e-d2a3-439b-a5e9-7f9994ce758a,attach.delivery,available,2.98,79.98,medium,low,6,namecheap,,,23/09/2026 19:57
 28a94877-f5ef-4c5d-b58e-8fa742404e92,algonkian.delivery,available,2.98,79.98,low,low,9,namecheap,,,
 96e6e85c-6e12-445e-a835-c5f342c75087,newfound.delivery,available,2.98,79.98,low,low,9,namecheap,,,08/09/2026 04:48
 9cf987a5-22d9-4c71-95b7-248ca1604e59,ailing.delivery,available,2.98,79.98,low,low,6,namecheap,,,
-a1f20102-cc42-43f1-9296-780c48c88a17,curse.delivery,available,8.99,77.99,high,low,5,name.com,,,
+a1f20102-cc42-43f1-9296-780c48c88a17,curse.delivery,available,6.75,61.99,low,low,5,namesilo,,,24/09/2026 04:27
 26b83f7f-ea23-4199-96e9-9c56aa37452d,impression.delivery,available,8.99,,high,low,10,name.com,,,
 20c9cdec-7183-4fce-a3cd-fd2a53bf3a19,muhfuckah.delivery,available,8.99,,medium,low,9,name.com,,,
 b5d1fecd-8f4f-494c-a50a-79c1f8fd9b1c,shrek.delivery,available,,,high,low,5,,,,
@@ -210,7 +210,7 @@ a80f6fbe-17ce-404e-bbfb-02456549592e,thebahamas.delivery,available,,,low,low,11,
 8f88ec7b-8acf-45c8-b44e-d17425182dc1,alexander.delivery,available,8.99,,medium,low,9,name.com,,,
 bc1ca1c3-d8d3-4af0-8ec2-1707a8b5ace5,amino.delivery,available,2.98,79.98,low,low,5,namecheap,,,
 dbb85bb6-210a-46af-b354-817caa17de66,apheretic.delivery,available,2.98,79.98,low,low,9,namecheap,,,05/08/2026 22:50
-fa13f899-80fe-4378-ba1f-d3c28ce4c036,quiz.delivery,resell,,,high,low,4,"Spaceship, Inc.",24/03/2026 19:08,24/03/2027 19:08,
+fa13f899-80fe-4378-ba1f-d3c28ce4c036,quiz.delivery,resell,,,medium,low,4,"Spaceship, Inc.",24/03/2026 19:08,24/03/2027 19:08,23/09/2026 06:25
 136548f5-50b4-42b8-9e51-90b0914c35a9,roll.delivery,available,8.99,,medium,low,4,name.com,,,
 ee67d672-d2b5-4efe-8929-d28626bb5101,tooshie.delivery,available,2.98,79.98,low,low,7,namecheap,,,09/08/2026 11:39
 e1c3b242-d492-4a31-b8e8-b1a431d664ae,lonely.delivery,available,8.99,,medium,low,6,name.com,,,
@@ -269,7 +269,7 @@ cb5c6490-c383-4f1b-8393-6c9c7ca6723a,alvine.delivery,available,2.98,79.98,low,lo
 d2820f77-fc43-4f3b-a361-7ab7f913a746,otic.delivery,available,2.98,79.98,low,low,4,namecheap,,,07/08/2026 17:41
 c60b3872-3096-47c9-9a80-d1ae47394f7c,yall.delivery,available,8.99,,medium,low,4,name.com,,,
 69b8a03d-286c-472b-8504-35584cc2aab8,grungy.delivery,available,2.98,79.98,low,low,6,namecheap,,,09/08/2026 09:36
-720894c5-7707-450f-81d4-93b4385e4c53,rotten.delivery,available,8.99,77.99,medium,low,6,name.com,,,
+720894c5-7707-450f-81d4-93b4385e4c53,rotten.delivery,available,8.99,77.99,low,low,6,name.com,,,24/09/2026 01:35
 ef05ada0-a496-486c-a06c-ad444b788118,asyetunknown.delivery,available,8.99,,medium,low,14,name.com,,,
 ecbe5cc7-3d34-453e-81c8-88e414941758,reporting.delivery,available,8.99,,medium,low,9,name.com,,,
 c68f4f92-a415-4c71-9f4e-93dc4c01f298,pushabout.delivery,available,8.99,,low,low,10,name.com,,,
@@ -293,7 +293,7 @@ ae9cc100-b439-4b6d-ad1a-3848e53f9b68,migrate.delivery,available,8.99,,high,low,7
 c5eb18d9-9568-4db4-b69e-9a4325584ab9,bolster.delivery,available,8.99,,medium,low,7,name.com,,,
 9c7f286f-e84b-4666-9e8e-5e2b9503927d,end.delivery,available,2.98,79.98,medium,low,3,namecheap,,,19/09/2026 15:33
 d9e708bc-21fd-4d10-9ed7-663b21111e29,nyt.delivery,available,8.99,,high,low,3,name.com,,,
-038e0510-64c3-425f-90c6-663660078dda,forced.delivery,available,8.99,77.99,medium,low,6,name.com,,,
+038e0510-64c3-425f-90c6-663660078dda,forced.delivery,available,2.98,79.98,low,low,6,namecheap,,,23/09/2026 21:10
 7ba95fed-ec17-42db-9347-0a1bc71c9ff1,aerial.delivery,resell,,,medium,low,6,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,
 84a922eb-9746-4112-ac04-25225b3d3af1,provision.delivery,available,8.99,,high,low,9,name.com,,,
 cf59765a-f4de-4d89-ac75-c5d49ac3e4cf,riding.delivery,available,8.99,,high,low,6,name.com,,,
@@ -310,7 +310,7 @@ ddaeb52b-0d33-4adc-94be-4eb4374cef26,rag.delivery,available,8.99,77.99,medium,lo
 33f7617f-408b-4b02-a279-594057631d2b,physic.delivery,available,2.98,79.98,low,low,6,namecheap,,,05/08/2026 22:25
 59b650cd-edc2-4465-93cc-80640161fafb,youwhat.delivery,available,8.99,,low,low,8,name.com,,,
 05c15170-5315-420e-bd1c-2617284c9097,largely.delivery,available,8.99,,medium,low,7,name.com,,,
-1f521d35-56d1-47f9-9aae-3db06d46c150,main.delivery,available,,,high,high,4,,,,
+1f521d35-56d1-47f9-9aae-3db06d46c150,main.delivery,resell,,,medium,low,4,,,,23/09/2026 09:34
 896c93b3-547d-4077-ab72-691e5a6dfc8d,makeitbig.delivery,available,8.99,,medium,low,11,name.com,,,
 87d6705d-fb74-40db-8b4d-f6e02a68c3c9,cleared.delivery,available,6.75,61.99,medium,low,7,namesilo,,,21/09/2026 14:48
 9ec5948d-7024-49ed-8f55-ceb19f42d42d,hightechnology.delivery,available,8.99,,high,low,15,name.com,,,
@@ -331,13 +331,13 @@ d2c9de53-4b37-4a3d-aea4-8667f985d892,procedure.delivery,available,6.75,61.99,low
 a4619b92-8888-43a9-b78b-238f1332e1bd,letterofreference.delivery,available,8.99,,high,low,19,name.com,,,
 e98fd364-0842-4901-a301-8e6f50b12ca7,decorous.delivery,available,2.98,79.98,low,low,8,namecheap,,,09/08/2026 06:21
 9b06d78a-c842-4d75-a311-4328946b3723,bailable.delivery,available,2.98,79.98,low,low,8,namecheap,,,08/08/2026 08:47
-604b863b-3a4c-4352-80fb-f22e67eb5ce2,confirmed.delivery,available,8.99,77.99,medium,low,9,name.com,,,
+604b863b-3a4c-4352-80fb-f22e67eb5ce2,confirmed.delivery,available,2.98,79.98,medium,low,9,namecheap,,,23/09/2026 19:53
 ea4547b3-c281-49c6-b82e-4e785a959abd,footballer.delivery,available,8.99,,high,low,10,name.com,,,
 84d3e0b2-17f9-41eb-b1ce-c510ec45ecf1,widen.delivery,available,8.99,,medium,low,5,name.com,,,
 c8ce2fdc-efd2-42e3-a048-4d70812b3017,creation.delivery,available,8.99,,high,low,8,name.com,,,
 21c2d9e2-a0dd-47d9-9194-64fe12120049,nyse.delivery,available,8.99,,medium,low,4,name.com,,,
 209e4614-879f-4cae-ae93-dfdd3266a0dc,antrorse.delivery,available,2.98,79.98,low,low,8,namecheap,,,05/08/2026 20:21
-c1694163-9882-434e-8472-3eb8993c70da,builtin.delivery,available,8.99,,high,low,8,name.com,,,
+c1694163-9882-434e-8472-3eb8993c70da,builtin.delivery,available,6.75,61.99,medium,low,8,namesilo,,,23/09/2026 10:27
 e57d83a8-7309-44ca-8a74-153e4f785a45,gomental.delivery,available,8.99,,medium,low,9,name.com,,,
 dad04bbf-7cae-4a90-a139-00da709b305c,copy.delivery,available,,,high,low,4,,,,
 43c654bf-45d9-4b4e-ad3d-8d58b9dd7f35,assumed.delivery,available,2.98,79.98,low,low,7,namecheap,,,07/08/2026 07:45
@@ -421,14 +421,14 @@ f5b50310-d288-4e53-8cf7-d653ccd95fa6,lacking.delivery,available,8.99,,high,low,7
 45a11c69-c473-4a3d-9b45-5cbbd80130b1,favourable.delivery,available,8.99,,high,low,10,name.com,,,
 73ef7b96-20e0-45b0-9157-f173db8b19ff,movie.delivery,resell,,,medium,low,5,"GoDaddy.com, LLC",14/11/2025 05:31,14/11/2026 05:31,20/09/2026 03:25
 178783a0-2d28-4c05-ba57-2a09a34d1114,destroyed.delivery,available,8.99,77.99,medium,low,9,name.com,,,
-07df31b4-5665-45ba-a253-ba3a03c2fa53,color.delivery,available,8.99,,high,low,5,name.com,,,
+07df31b4-5665-45ba-a253-ba3a03c2fa53,color.delivery,available,6.75,61.99,medium,low,5,namesilo,,,23/09/2026 15:05
 d0653e9e-df79-4a0d-954c-6a59dafc0058,household.delivery,available,8.99,,high,low,9,name.com,,,
 2b2cafa3-11e5-435c-9244-cf658286b1dd,blackdeath.delivery,available,8.99,,low,low,11,name.com,,,
 225cbbc5-3829-4a97-96cc-11e8c085aba0,suffer.delivery,available,8.99,,medium,low,6,name.com,,,
 d976442e-4739-44d1-a24b-8174b8c3beb2,one.delivery,premium,242,242,medium,low,3,namesilo,,,21/09/2026 10:37
 958c756d-073b-4b18-afd1-c87b299a1f3b,terrified.delivery,available,8.99,,medium,low,9,name.com,,,
 6a37a65d-59c4-4b99-be26-e5d43e2cbf40,protest.delivery,available,8.99,,high,low,7,name.com,,,
-c414a398-9a9a-4870-8a99-1214f94b1ca3,modernday.delivery,available,8.99,77.99,high,low,10,name.com,,,
+c414a398-9a9a-4870-8a99-1214f94b1ca3,modernday.delivery,available,6.75,61.99,medium,low,10,namesilo,,,23/09/2026 21:48
 305fc406-a6a4-43aa-b243-d81b6d31109a,coloured.delivery,available,2.98,79.98,low,low,8,namecheap,,,22/09/2026 20:29
 fb5224a4-61a1-4e1a-b624-432d21522a1b,casket.delivery,available,8.99,,high,low,6,name.com,,,
 c44a68bb-7f18-4ffa-b6f2-c7f30dae592b,potbellied.delivery,available,2.98,79.98,low,low,10,namecheap,,,
@@ -449,7 +449,7 @@ a9c40dc6-293c-4e90-900e-6e27073d16de,nipping.delivery,available,2.98,79.98,low,l
 cd410911-5abf-4bf8-8599-7ecb776ad8db,typically.delivery,available,8.99,,medium,low,9,name.com,,,
 1f146075-3a65-4f0e-b6c8-315e12760c0e,keepinmind.delivery,available,8.99,,high,low,12,name.com,,,
 5505b7cd-fa1e-47ce-9d94-1c85c555ee8f,arteriolar.delivery,available,2.98,79.98,low,low,10,namecheap,,,06/08/2026 22:34
-386288eb-3772-46c4-a14b-7a80c4f76b6f,mail.delivery,resell,,,medium,low,4,"GoDaddy.com, LLC",10/05/2016 18:41,10/05/2027 18:41,19/09/2026 05:07
+386288eb-3772-46c4-a14b-7a80c4f76b6f,mail.delivery,resell,,,medium,low,4,"GoDaddy.com, LLC",10/05/2016 18:41,10/05/2027 18:41,23/09/2026 04:59
 4bd02ad8-a4db-48d2-9aa1-de108934cc17,dizzy.delivery,available,2.98,79.98,low,low,5,namecheap,,,
 d9cf9869-873b-4739-b234-864ae2224080,deuce.delivery,available,2.98,79.98,low,low,5,namecheap,,,21/09/2026 12:17
 cf8add18-cfc0-4e96-893b-479a97457381,centralised.delivery,available,8.99,,medium,low,11,name.com,,,
@@ -493,7 +493,7 @@ b5278ee6-965b-4d02-9892-ad29077e3258,agonized.delivery,available,2.98,79.98,low,
 99534a74-6cb9-4abc-bb2c-02a803d106d6,eliza.delivery,available,8.99,,high,low,5,name.com,,,
 eb70bb9c-d1f8-4077-8747-85f1f40ebde2,araneidal.delivery,available,2.98,79.98,low,low,9,namecheap,,,06/08/2026 12:18
 2669320d-9ab1-4199-95d3-5772925dc7bf,adult.delivery,premium,260,260,medium,low,5,namecheap,,,21/09/2026 19:57
-1e9264d0-3426-4f0d-9d21-a851ebb2c16c,begin.delivery,available,6.75,61.99,medium,low,5,namesilo,,,19/09/2026 05:29
+1e9264d0-3426-4f0d-9d21-a851ebb2c16c,begin.delivery,available,6.75,61.99,medium,low,5,namesilo,,,23/09/2026 09:05
 aa8a304b-972d-4aaa-965d-13755fc537c7,trial.delivery,available,8.99,,high,low,5,name.com,,,
 146703a5-6156-4402-80a7-a953e09877a0,frenchroast.delivery,available,8.99,,medium,low,12,name.com,,,
 c14cdbe4-4cb7-4902-8c9d-68ec6678d057,surgicalmask.delivery,available,8.99,,high,low,13,name.com,,,
@@ -590,13 +590,13 @@ e403435b-1d09-475e-812b-24915387187f,nontoxic.delivery,available,2.98,79.98,medi
 d538504c-cee7-4c45-97b0-6a9e365407f8,disciple.delivery,available,2.98,79.98,medium,low,8,namecheap,,,
 011368a9-aa35-4fcf-94c7-7e361029a02e,admittable.delivery,available,2.98,79.98,low,low,10,namecheap,,,
 dfc64acf-cc8b-439c-b9bf-4935934cf78d,bowout.delivery,available,8.99,,high,low,7,name.com,,,
-b711a351-a543-4128-80e5-36192cdf3774,swollen.delivery,available,8.99,77.99,medium,low,7,name.com,,,
+b711a351-a543-4128-80e5-36192cdf3774,swollen.delivery,available,6.75,61.99,low,low,7,namesilo,,,23/09/2026 18:42
 9f7fde86-652c-425b-bbb1-4f65335ca991,majorleague.delivery,available,8.99,,high,low,12,name.com,,,
 9d6c76d5-1528-4847-a66a-af209f35b829,nike.delivery,available,,,high,low,4,,,,
 df121613-f964-4b32-a05f-4c2d0f472ae3,increasing.delivery,available,8.99,,high,low,10,name.com,,,
 c8799839-350e-4791-92e1-e264ad12e467,ringed.delivery,available,2.98,79.98,low,low,6,namecheap,,,
 37af38db-8d4b-426f-8608-974b3e341b89,plus.delivery,resell,,,high,low,4,"Sav.com, LLC - 11",20/02/2026 15:15,20/02/2027 15:15,
-8e5458ea-9bf0-4b64-a8a4-cc90f967c6e2,spf.delivery,available,8.99,,high,low,3,name.com,,,
+8e5458ea-9bf0-4b64-a8a4-cc90f967c6e2,spf.delivery,available,6.75,61.99,medium,low,3,namesilo,,,23/09/2026 05:17
 b0ffc085-753b-4ba0-85ef-d916891bd1ae,abkhas.delivery,available,2.98,79.98,low,low,6,namecheap,,,
 fa82ede8-f0b5-4b31-b884-e71b416d5a75,toilsome.delivery,available,2.98,79.98,low,low,8,namecheap,,,06/08/2026 17:16
 8331d150-7123-414f-a7eb-6daddb259a59,named.delivery,available,8.99,,medium,low,5,name.com,,,
@@ -608,7 +608,7 @@ fa82ede8-f0b5-4b31-b884-e71b416d5a75,toilsome.delivery,available,2.98,79.98,low,
 1d4af7b0-078f-4b59-b7b4-9128365a505e,motherfukker.delivery,available,8.99,,medium,low,12,name.com,,,
 55399273-7ee7-49ac-a53c-1e8be3015c3c,letalone.delivery,available,8.99,,medium,low,9,name.com,,,
 11490cf3-eff6-404a-a5c7-a3325a47f0e5,historical.delivery,available,8.99,77.99,high,low,10,name.com,,,
-046b1d35-4d10-4591-baea-31182ad7f3a4,entertain.delivery,available,8.99,,high,low,9,name.com,,,
+046b1d35-4d10-4591-baea-31182ad7f3a4,entertain.delivery,available,2.98,79.98,medium,low,9,namecheap,,,24/09/2026 02:50
 6e44d96f-b1c9-45d1-a753-54ac5cdcdcb6,dressed.delivery,available,8.99,77.99,low,low,7,name.com,,,22/09/2026 07:16
 894b0a49-d269-44b4-ad28-f45cc8e7a97f,checkinto.delivery,available,8.99,,high,low,10,name.com,,,
 438639a0-ddd6-467c-8b5c-1f5bace8a6c6,wannabe.delivery,available,2.98,79.98,low,low,7,namecheap,,,07/08/2026 05:17
@@ -622,7 +622,6 @@ df064d9d-f5fa-4ed1-adc2-acca05a1ab5a,sorry.delivery,available,8.99,77.99,high,lo
 97db76e6-91ee-4d02-b35a-d6f6d376537c,breathalizer.delivery,available,8.99,,medium,low,12,name.com,,,
 28e05dab-c150-4005-8d18-4f9a6e9dacb5,basis.delivery,available,8.99,,high,low,5,name.com,,,
 57a70c28-5573-45b3-9d7d-7c4bc59be5b3,family.delivery,available,8.99,,high,medium,6,name.com,,,
-6fc74d58-5d40-465e-8164-363de81e3451,forge.delivery,available,8.99,77.99,medium,low,5,name.com,,,
 acb46e9c-b5c4-45f8-903e-a0d94fa2cb29,banded.delivery,available,2.98,79.98,low,low,6,namecheap,,,08/08/2026 11:40
 0c6b6bab-0bc5-4bcc-ba77-ffec9a661db8,enliven.delivery,available,6.75,61.99,medium,low,7,namesilo,,,22/09/2026 04:56
 ab9c57e6-e73f-475f-8d6b-e02687b27d04,purposes.delivery,available,8.99,,low,low,8,name.com,,,
@@ -634,7 +633,7 @@ da1199d6-2035-4e82-aaa1-22c2aa762a66,childsexabuse.delivery,available,8.99,,medi
 81c19a53-3c32-493c-9f6a-4c14ccc42e77,spiderly.delivery,available,2.98,79.98,low,low,8,namecheap,,,06/08/2026 11:57
 aeb726e2-5894-405f-979d-f8032c5b7acf,associate.delivery,available,2.98,79.98,low,low,9,namecheap,,,07/08/2026 06:50
 07d5c000-0039-46b6-8cbe-3ad7b4b50093,revolution.delivery,available,8.99,,medium,low,10,name.com,,,
-f51707af-f90c-47c1-8de4-483f36c306c1,flexible.delivery,available,8.99,77.99,high,low,8,name.com,,,
+f51707af-f90c-47c1-8de4-483f36c306c1,flexible.delivery,available,2.98,79.98,medium,low,8,namecheap,,,23/09/2026 18:12
 af599f09-a3a2-4c37-ac54-a31cc0f5c12c,payfor.delivery,available,8.99,,high,low,7,name.com,,,
 59266ddd-d036-44a4-b3ec-5440336550a1,temporary.delivery,available,8.99,,high,low,9,name.com,,,
 bc2ea490-36f7-4241-be49-37d87588efe0,area.delivery,available,8.99,,high,low,4,name.com,,,
@@ -649,14 +648,14 @@ de2e775c-1304-45bb-bf81-d9e875432c14,families.delivery,available,8.99,,medium,lo
 1a89b41e-f8c2-4924-bfb5-f90291fe35ac,soundlike.delivery,available,8.99,,low,low,10,name.com,,,
 de5cc1c4-9f55-4efe-bed3-27947e8a5c66,olive.delivery,available,8.99,,medium,low,5,name.com,,,
 00c6bab6-99b3-4b76-9731-4a1edc39f715,inturn.delivery,available,8.99,,high,low,7,name.com,,,
-7bc2440b-2631-4917-bbee-e880e0882119,fatal.delivery,available,8.99,,high,low,5,name.com,,,
+7bc2440b-2631-4917-bbee-e880e0882119,fatal.delivery,available,8.99,77.99,low,low,5,name.com,,,23/09/2026 12:24
 3d954d30-9a76-4255-8eeb-cfa79688504e,lettertelegram.delivery,available,8.99,,medium,low,15,name.com,,,
 24f57631-c447-4578-9310-32acff35ff79,chagrined.delivery,available,2.98,79.98,low,low,9,namecheap,,,
 b0db9a8e-185f-43b5-8736-ebcd139844d8,trounce.delivery,available,2.98,79.98,low,low,7,namecheap,,,09/08/2026 05:27
 06a462b4-c334-4a73-867b-c05df8425226,despiteof.delivery,available,8.99,,medium,low,10,name.com,,,
 346a5130-7511-4aa4-ba20-066f437564c9,abroach.delivery,available,2.98,79.98,low,low,7,namecheap,,,
 0d3294a3-b5c7-4133-b247-9d1ab5afddbd,heck.delivery,available,8.99,,medium,low,4,name.com,,,
-1a987759-77f1-4c3b-8462-13530a82a8c8,built.delivery,available,8.99,,high,low,5,name.com,,,
+1a987759-77f1-4c3b-8462-13530a82a8c8,built.delivery,available,6.75,61.99,medium,low,5,namesilo,,,23/09/2026 10:20
 7af6e417-cb01-4753-b61f-697cb4c1af7f,acherontic.delivery,available,2.98,79.98,low,low,10,namecheap,,,
 9f3bff69-cb77-40b4-aec4-02b465a8c769,soundbarrier.delivery,available,8.99,,low,low,13,name.com,,,
 ac39dbed-9d10-46a1-9395-42722cb399d9,azoic.delivery,available,2.98,79.98,low,low,5,namecheap,,,08/08/2026 02:22
@@ -682,7 +681,7 @@ be01fb36-315c-41ba-b794-1a6d6dd34b6a,frustrated.delivery,available,8.99,77.99,me
 fc7e8c4d-489f-42f3-88fd-f8947f909c61,middleage.delivery,available,8.99,,medium,low,10,name.com,,,
 d069e05e-7c4e-460f-bd38-00044dfcc686,aching.delivery,available,2.98,79.98,low,low,6,namecheap,,,
 c53dd45f-3e08-464f-b145-b82880be77fe,shame.delivery,available,8.99,,high,low,5,name.com,,,
-aa64e857-8a02-4550-b123-dc15d79bacc4,enemy.delivery,available,6.75,61.99,low,low,5,namesilo,,,19/09/2026 10:02
+aa64e857-8a02-4550-b123-dc15d79bacc4,enemy.delivery,available,6.75,61.99,low,low,5,namesilo,,,23/09/2026 07:51
 dd3fe7c4-84f2-4c3b-83a8-5e30e702faa4,prison.delivery,available,8.99,,high,low,6,name.com,,,
 e2d874c7-6a01-4109-9b10-f2397fb76835,aplacental.delivery,available,2.98,79.98,low,low,10,namecheap,,,06/08/2026 00:24
 4269cff3-2760-465a-b8ea-19691a45b916,tours.delivery,available,8.99,,high,low,5,name.com,,,
@@ -691,7 +690,7 @@ a154240f-19f5-4f70-bec3-89698bdd8dec,condone.delivery,available,8.99,,high,low,7
 3c6e9390-1997-4fa3-8a55-0751a8f83752,hairdryer.delivery,available,8.99,,high,low,10,name.com,,,
 54a30255-21ff-4309-997a-cef9881cacdb,loony.delivery,available,2.98,79.98,low,low,5,namecheap,,,06/08/2026 21:17
 fff760eb-9c55-407a-8906-6b5384918dda,wowfactor.delivery,available,8.99,,high,low,10,name.com,,,
-dfc80780-610e-4a82-8d76-f5933bb9aa44,comfy.delivery,available,8.99,,high,low,5,name.com,,,
+dfc80780-610e-4a82-8d76-f5933bb9aa44,comfy.delivery,available,6.75,61.99,medium,low,5,namesilo,,,23/09/2026 15:10
 90ce63be-940a-4173-941c-2fe013e0c329,pillowcase.delivery,available,8.99,,low,low,11,name.com,,,
 70744f9a-72dd-46ce-a0db-94c3c77441af,profitable.delivery,available,8.99,,high,low,10,name.com,,,
 094f6e34-79c7-4f8d-a91b-254e2db67804,harrowing.delivery,available,2.98,79.98,low,low,9,namecheap,,,
@@ -744,7 +743,7 @@ b4dc9d83-7f5a-451c-be13-24c081d3669c,particles.delivery,available,8.99,,low,low,
 f2f2d6bc-6d25-4a96-b2fb-d3ee6725dffd,touchon.delivery,available,6.75,61.99,low,low,8,namesilo,,,17/09/2026 14:12
 5c75e6c5-9a2b-4b4c-86b3-9ee84acd598b,atthecoalface.delivery,available,8.99,,medium,low,16,name.com,,,
 9a3a4189-cb80-4271-bf90-d0f78768756e,oversight.delivery,available,8.99,,high,low,9,name.com,,,
-3bbeb31b-22ac-48d1-8f58-49a3b8c79c25,controlled.delivery,available,8.99,77.99,medium,low,10,name.com,,,
+3bbeb31b-22ac-48d1-8f58-49a3b8c79c25,controlled.delivery,available,6.75,61.99,low,low,10,namesilo,,,23/09/2026 22:39
 e2ca9e68-340d-403f-b170-c6c358ab39bc,aligning.delivery,available,2.98,79.98,low,low,8,namecheap,,,
 d031e72f-3347-476b-becf-7b7c8f708956,silverpolish.delivery,available,8.99,,low,low,13,name.com,,,
 3298edca-cba2-47ff-9353-2acee7f6eee4,rockbottom.delivery,available,8.99,,high,low,11,name.com,,,
@@ -755,7 +754,7 @@ e706e8a5-17e7-489b-8935-c96f5319ab22,asunder.delivery,available,2.98,79.98,low,l
 64823189-ab2f-40b5-9686-52503fed55ed,mazed.delivery,available,2.98,79.98,low,low,5,namecheap,,,07/08/2026 12:07
 2dbddc50-1617-4e90-bae2-789d4ba7f1b8,asofnow.delivery,available,8.99,,medium,low,9,name.com,,,
 d2b96923-9282-40d0-bab9-76211ea6c607,mint.delivery,available,,,high,low,4,,,,
-2a3ebffa-4503-4cb6-839b-5336cbf97543,apply.delivery,available,6.75,61.99,medium,low,5,namesilo,,,19/09/2026 03:36
+2a3ebffa-4503-4cb6-839b-5336cbf97543,apply.delivery,available,6.75,61.99,medium,low,5,namesilo,,,23/09/2026 08:15
 20d3454f-5a41-4a2d-aa08-f12ca7be0e03,invariably.delivery,available,8.99,,medium,low,10,name.com,,,
 b0ceeb10-3796-4c91-8729-38cc21804dbb,animal.delivery,available,2.98,79.98,medium,low,6,namecheap,,,08/09/2026 11:39
 ef83cb78-7c42-4101-8fe6-145775158848,attractive.delivery,available,2.98,79.98,medium,low,10,namecheap,,,22/09/2026 11:44
@@ -826,7 +825,7 @@ cc4dc34f-5dc8-4ecd-891f-861b98088af7,birds.delivery,available,8.99,,high,low,5,n
 cb0fcdb6-eb1f-439c-9c9b-5c0891bf80eb,garden.delivery,premium,242,242,low,low,6,namesilo,,,23/09/2026 03:04
 7b9d270f-b39d-460a-9d8f-2ce61623f208,whom.delivery,available,8.99,,low,low,4,name.com,,,
 0675d024-f1b0-47f3-92e4-ce9a701c7b5a,atworst.delivery,available,8.99,,medium,low,8,name.com,,,
-b51d7829-da35-4102-8137-45c470e298ef,symbol.delivery,available,8.99,,high,low,6,name.com,,,
+b51d7829-da35-4102-8137-45c470e298ef,symbol.delivery,available,6.75,61.99,medium,low,6,namesilo,,,24/09/2026 03:34
 75fba066-462f-41e0-b7e7-72d49f803172,unstoppable.delivery,available,8.99,,high,low,11,name.com,,,
 b880034b-19b1-4ef1-a1bb-34d9d545a4e1,naturewriting.delivery,available,8.99,,low,low,14,name.com,,,
 fb5b15a1-5295-412c-8c60-089add70d565,gram.delivery,available,8.99,,medium,low,4,name.com,,,
@@ -849,7 +848,7 @@ defa8a12-5ee1-41e0-8218-53eb1e911611,episode.delivery,available,8.99,,high,low,7
 960063e0-bb2c-4e24-9dff-3af1fd8f65ee,folder.delivery,available,8.99,,high,low,6,name.com,,,
 bf20d0f2-64cc-4f12-b5c7-6d2c7ed29918,rhiannon.delivery,available,8.99,,high,low,8,name.com,,,
 7571b4cf-b00f-434d-8fbf-e3c2acfa5f56,theory.delivery,available,8.99,,high,low,6,name.com,,,
-b0ed22d6-0feb-4369-89f3-82e8524351a8,biology.delivery,available,8.99,,high,low,7,name.com,,,
+b0ed22d6-0feb-4369-89f3-82e8524351a8,biology.delivery,available,6.75,61.99,medium,low,7,namesilo,,,24/09/2026 02:45
 c0105c68-a26c-4bbc-8046-12e222a5c35a,analgetic.delivery,available,2.98,79.98,low,low,9,namecheap,,,
 dbb2cf31-0bfd-4634-aa97-354bf618aeeb,finalwords.delivery,available,8.99,,high,low,11,name.com,,,
 9fff866b-a672-42ca-9c75-1d25e8e1dd6c,mouthguard.delivery,available,8.99,,low,low,11,name.com,,,
@@ -981,7 +980,6 @@ ef961536-0932-4463-9218-cf2b50e7f43e,angle.delivery,available,8.99,,high,low,5,n
 e57924f9-bf75-4bc9-8ab8-29d07ce1fb95,whopping.delivery,available,2.98,79.98,low,low,8,namecheap,,,08/08/2026 13:14
 d00ff832-5f34-47fe-a709-b14267e56a52,confounded.delivery,available,2.98,79.98,low,low,10,namecheap,,,07/08/2026 11:57
 5652a131-6719-4196-b06b-59ce8b2052f8,sloth.delivery,available,8.99,,high,low,5,name.com,,,
-77f5f75a-1ea8-4a94-9392-4021528ed90d,true.delivery,resell,,,high,medium,4,Dynadot Inc,20/11/2025 22:08,20/11/2026 22:08,
 82a28066-8511-4a8a-8cfb-77f3d944defd,gooddoctor.delivery,available,8.99,,high,low,11,name.com,,,
 0994a22a-f263-4fc4-a40f-9065d20cb2cc,pub.delivery,available,8.99,,high,low,3,name.com,,,
 c79a71e3-9ece-4112-825e-32e7d56b70f8,promoter.delivery,available,8.99,,high,low,8,name.com,,,
@@ -999,3 +997,5 @@ f13913dd-2142-4a3a-ab58-14916be2001b,howdoigetto.delivery,available,8.99,,medium
 77e8e556-f959-4b4e-89c6-74b43bf490f4,cheeses.delivery,available,8.99,,high,low,7,name.com,,,
 8dca3f36-0553-48ff-878c-42de442db38b,gobegging.delivery,available,8.99,,medium,low,10,name.com,,,
 2af9614a-08d0-4fdd-9a59-795ad7b06b98,type.delivery,available,8.99,,high,low,4,name.com,,,
+5fe652e3-81be-4089-8a6e-b7098252897c,lettertotheeditor.delivery,available,8.99,,high,low,20,name.com,,,
+c1332e4f-316c-49b9-ac50-fe42abf10113,totaled.delivery,available,8.99,,high,low,7,name.com,,,
